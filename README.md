@@ -1,1 +1,1 @@
-[deployment link]{pokedexcardsweb.netlify.app}
+Deployment Link : [POKEDEX](pokedexcardsweb.netlify.app)
